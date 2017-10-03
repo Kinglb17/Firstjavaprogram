@@ -13,4 +13,6 @@ for (String name : listofNames) {
 	System.out.println(name);
 	}
 }
-}
+ static void stopPrintingWhenYouFindTheNameJoe (String[] listofNames) {
+ }
+ }

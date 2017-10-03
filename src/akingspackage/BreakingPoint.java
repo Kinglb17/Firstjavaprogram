@@ -8,8 +8,8 @@ public class BreakingPoint {
 		//This list workout days and rest days
 		//This loops until it get to 4th and 6th day
 		for (int  x= 1; x<= 30; x++ ) {
-			if(x == 4 || x == 6 ) {
-			System.out.println("rest day" +" "+ x);
+			if(x==4) {
+			System.out.println("rest day" +" "+ x );
 			
 			}
 			else {
